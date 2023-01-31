@@ -1,1 +1,0 @@
-In the .init file, provide API, API hash, Phone number, Username
